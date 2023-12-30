@@ -29,3 +29,10 @@ Considering the problem statements, lot of data originally available in the data
 
 ## Acknowledgements:
 The high school data was compiled and published by the New York City Department of Education, and the SAT score averages and testing rates were provided by the College Board.
+
+## Sources:
+### Project source: Datacamp 
+This project was a guided project which is a part of a part of the Python course track I followed.
+
+### Data source: Kaggle:
+The data source has been imported from Kaggle.
