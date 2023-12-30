@@ -1,5 +1,5 @@
-# NYC_schools_dataset_project
-![image.png](attachment:image.png)
+# NYC_schools_dataset_project:
+![schoolbus](https://github.com/nikhilkhawase/NYC_school_project/assets/108681269/d3ddf407-4eb1-43e6-aed7-0d2f4aac057f)
 
 ## About project:
 Every year, American high school students take SATs, which are standardized tests intended to measure literacy, numeracy, and writing skills. There are three sections - reading, math, and writing, each with a maximum score of 800 points. These tests are extremely important for students and colleges, as they play a pivotal role in the admissions process. 
