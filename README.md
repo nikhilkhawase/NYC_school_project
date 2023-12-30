@@ -14,17 +14,17 @@ Answering these questions is  is important to a variety of stakeholders, includi
 ## The project FIle:
 following is the Jupiter notebook where the solution has been coded.
 
-[NYC_schools_jupiter_notebook](https://github.com/nikhilkhawase/NYC_school_project/blob/main/NYC_schools_jupiter_notebook%20(1).ipynb)
+## [NYC_schools_jupiter_notebook](https://github.com/nikhilkhawase/NYC_school_project/blob/main/NYC_schools_jupiter_notebook%20(1).ipynb)
 
 ## Content:
 This dataset consists of a row for every accredited high school in New York City with its department ID number, school name, borough, building code, street address, latitude/longitude coordinates, phone number, start and end times, student enrollment with race breakdown, and average scores on each SAT test section for the 2014-2015 school year.
 
-[Scores](https://github.com/nikhilkhawase/NYC_school_project/blob/main/scores.csv)
+## [Scores](https://github.com/nikhilkhawase/NYC_school_project/blob/main/scores.csv)
 
 ## Modifications:
 Considering the problem statements, lot of data originally available in the dataset does not make sence with regards to what has to be found. So, to make it reliable it has been cleaned and attached below.
 
-[schools_data_cleaned](https://github.com/nikhilkhawase/NYC_school_project/blob/main/schools_data_cleaned.csv)
+## [schools_data_cleaned](https://github.com/nikhilkhawase/NYC_school_project/blob/main/schools_data_cleaned.csv)
 
 
 ## Acknowledgements:
